@@ -1,2 +1,2 @@
 # AIND
-AI nano degree from Udacity
+AI nano degree from Udacity - In Progress
